@@ -54,24 +54,24 @@
   }
   
   .header {
-    background: tomato;
+    background: rgb(149, 0, 255);
   }
   
   .footer {
-    background: lightgreen;
+    background: rgb(253, 245, 1);
   }
   
   .main {
     text-align: left;
-    background: deepskyblue;
+    background: rgb(25, 0, 255);
   }
   
   .aside-1 {
-    background: gold;
+    background: rgb(34, 255, 0);
   }
   
   .aside-2 {
-    background: hotpink;
+    background: rgb(249, 1, 1);
   }
   
   @media all and (min-width: 600px) {
